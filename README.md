@@ -14,7 +14,7 @@ This plugin enforces a "one totem per slot" rule for Totems of Undying. It autom
 
 ## Installation
 
-1.  Download the latest `NoStackTotems.jar` file from the [Releases]([link_to_releases](https://github.com/Daniel-Farmer/NoStackTotems/tree/Releases)) section.
+1.  Download the latest `NoStackTotems.jar` file from the [Releases][link_to_releases](https://github.com/Daniel-Farmer/NoStackTotems/tree/Releases] section.
 2.  Place the `NoStackTotems.jar` file into the `plugins` folder of your Spigot or Paper Minecraft server.
 3.  Restart the server.
 
