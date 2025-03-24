@@ -1,0 +1,6 @@
+name: NoStackTotems
+version: 1.0-SNAPSHOT
+main: com.example.NoStackTotems
+api-version: 1.19  # Or your server's Minecraft version (e.g., 1.18, 1.20)
+description: Prevents Totems of Undying from stacking.
+author: Daniel .E Farmer
