@@ -40,6 +40,6 @@ For bug reports or feature requests, please open an issue on this GitHub reposit
 
 ## License
 
-[Choose a license, e.g., MIT License]
+MIT License
 
 ---
