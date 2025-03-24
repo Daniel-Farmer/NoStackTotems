@@ -24,7 +24,7 @@ This plugin requires no configuration.  The default behavior is to always preven
 
 ## Dependencies
 
-*   Spigot or Paper Minecraft server (version X.X.X or higher) [Replace X.X.X with the supported Minecraft version(s)]
+*   Spigot or Paper Minecraft server (version 1.19 or higher)
 
 ## Usage
 
